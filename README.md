@@ -22,3 +22,4 @@ A curated collection of tools and resources that I use to enhance my testing pro
 
 ## Others
 * **[Word to Markdown Converter](https://www.word2md.net/)** - Convert .docx to .md.
+* **[Mermaid](https://mermaid.js.org/syntax/flowchart.html)** - Diagramming and charting tool.
